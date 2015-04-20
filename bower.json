@@ -6,13 +6,15 @@
   "authors": [
     "interrupter"
   ],
-  "description": "Simple app object for JS front-end based on not* objects and routie as router.",
+  "description": "Simple application engine for front-end.",
   "keywords": [
-    "app",
+    "template",
     "front-end",
     "frontend",
-    "template",
-    "ajax",
+    "engine",
+    "request",
+    "routie",
+    "blockNot",
     "json"
   ],
   "license": "MIT",
