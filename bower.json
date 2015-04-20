@@ -27,6 +27,6 @@
     "notTemplate": ">= 0.1.2",
     "notRecord": ">= 0.1.2",
     "routie": ">= 0.1.2",
-    "notPager": ">= 0.1.0",
+    "notPager": ">= 0.1.0"
   }
 }
