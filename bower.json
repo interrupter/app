@@ -1,0 +1,32 @@
+{
+  "name": "notApp",
+  "main": "notApp.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/interrupter/app",
+  "authors": [
+    "interrupter"
+  ],
+  "description": "Simple app object for JS front-end based on not* objects and routie as router.",
+  "keywords": [
+    "app",
+    "front-end",
+    "frontend",
+    "template",
+    "ajax",
+    "json"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "notTemplate": ">= 0.1.2",
+    "notRecord": ">= 0.1.2",
+    "routie": ">= 0.1.2",
+    "notPager": ">= 0.1.0",
+  }
+}
