@@ -9,6 +9,7 @@
   "description": "Simple application engine for front-end. With one pagers support.",
   "keywords": [
     "template",
+    "notTemplate",
     "front-end",
     "frontend",
     "engine",
